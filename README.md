@@ -1,3 +1,3 @@
 # LearnGitHub
-Basics of GH
+Basics of GH <br>
 MD -- markdown
